@@ -117,3 +117,5 @@ f = open('dict.txt', 'wt', encoding='utf-8')
 f.writelines(OrderedDict.fromkeys(result))
 f.close()
 [출처] 파이썬 1인용 끝말잇기 (표준국어대사전 크롤링)|작성자 njw1204
+
+#만들고 싶은 아이템 : 순서 섞기(250 point), 자기 순서 넘기기(100 point), 자기 마음대로 단어 쓰기(500 point)
